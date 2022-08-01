@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
+![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
 <h3 align="center">Welcome to my page! I'm Mrinal, a self taught web developer currently living in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
