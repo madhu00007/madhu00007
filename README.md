@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Mongo DB, Node, Express.js, Postman API**
 
-- 📫 How to reach me **mmadhubrata33@gmail.com**
+<!--- 📫 How to reach me **mmadhubrata33@gmail.com**-->
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
